@@ -1,0 +1,4 @@
+user-agent: *
+allow /assignment-4/
+
+Sitemap: https://edvardskrumins.github.io/assignment-4/sitemap.xml
